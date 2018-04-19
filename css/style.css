@@ -1,0 +1,25 @@
+<style>
+.playerTable{
+    width: 100%;
+    text-align: left;
+    background-color: blue;
+}
+
+.playerTable td, #customers th {
+    text-align: left;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.playerTable tr:nth-child(even){background-color: #f2f2f2;}
+
+.playerTable tr:hover {background-color: #ddd !important;}
+
+.playerTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+</style>
