@@ -1,4 +1,7 @@
+name: CntrStats-environment
 dependencies:
+  - python
+  - numpy
   - matplotlib
   - pip:
     - mpld3
