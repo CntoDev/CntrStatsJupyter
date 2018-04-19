@@ -5,3 +5,4 @@ dependencies:
   - matplotlib
   - pip:
     - mpld3
+    - "git+https://github.com/javadba/mpld3@display_fix"
